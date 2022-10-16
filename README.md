@@ -1,3 +1,4 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Vikalp Shandialya</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
