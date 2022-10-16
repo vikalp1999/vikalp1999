@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+![MasterHead](https://img.freepik.com/free-photo/motherboard-circuit-technology-background-gradient-green_53876-124656.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Vikalp Shandialya</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
