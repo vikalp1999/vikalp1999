@@ -1,4 +1,4 @@
-<img width=100% title="Vikalp Shandialya" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Vikalp Shandialya" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vikalp Shandialya-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1 align="center">Hi 👋, I'm Vikalp Shandialya</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
